@@ -632,6 +632,10 @@ a {
   margin-top: 3rem;
 }
 
+.footer span {
+  display: none;
+}
+
 .footer .search {
   display: flex;
   justify-content: center;
