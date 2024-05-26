@@ -437,9 +437,9 @@ a {
   text-align: center;
 }
 
-.global-reach {
+.about .global-reach {
   background-color: white;
-  background-image: url(/images/global-reach.png);
+  background-image: url(../images/global-reach.jpg);
   width: 100%;
   height: 600px;
   background-size: cover;
