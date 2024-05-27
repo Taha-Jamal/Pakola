@@ -316,6 +316,8 @@ a {
 .menu .box-container .box .price {
   font-size: 2.5rem;
   padding: 0.5rem 0;
+  display: flex;
+  justify-content: space-between;
 }
 
 .menu .box-container .box .price span {
